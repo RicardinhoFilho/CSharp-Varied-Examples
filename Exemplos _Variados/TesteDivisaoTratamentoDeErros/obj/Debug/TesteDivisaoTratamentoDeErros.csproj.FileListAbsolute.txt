@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\TesteDivisaoTratamentoDeErros\obj\Debug\TesteDivisaoTratamentoDeErros.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\TesteDivisaoTratamentoDeErros\bin\Debug\TesteDivisaoTratamentoDeErros.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\TesteDivisaoTratamentoDeErros\bin\Debug\TesteDivisaoTratamentoDeErros.exe
+C:\Users\User\Desktop\Exemplos _Variados\TesteDivisaoTratamentoDeErros\bin\Debug\TesteDivisaoTratamentoDeErros.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TesteDivisaoTratamentoDeErros\obj\Debug\TesteDivisaoTratamentoDeErros.exe
+C:\Users\User\Desktop\Exemplos _Variados\TesteDivisaoTratamentoDeErros\obj\Debug\TesteDivisaoTratamentoDeErros.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TesteDivisaoTratamentoDeErros\obj\Debug\TesteDivisaoTratamentoDeErros.csprojAssemblyReference.cache

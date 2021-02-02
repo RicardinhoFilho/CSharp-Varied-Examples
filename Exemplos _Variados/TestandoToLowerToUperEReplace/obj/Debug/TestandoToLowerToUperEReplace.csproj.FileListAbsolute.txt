@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\TestandoToLowerToUperEReplace\bin\Debug\TestandoToLowerToUperEReplace.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\TestandoToLowerToUperEReplace\bin\Debug\TestandoToLowerToUperEReplace.exe
+C:\Users\User\Desktop\Exemplos _Variados\TestandoToLowerToUperEReplace\bin\Debug\TestandoToLowerToUperEReplace.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TestandoToLowerToUperEReplace\obj\Debug\TestandoToLowerToUperEReplace.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\TestandoToLowerToUperEReplace\obj\Debug\TestandoToLowerToUperEReplace.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\TestandoToLowerToUperEReplace\obj\Debug\TestandoToLowerToUperEReplace.exe
+C:\Users\User\Desktop\Exemplos _Variados\TestandoToLowerToUperEReplace\obj\Debug\TestandoToLowerToUperEReplace.pdb

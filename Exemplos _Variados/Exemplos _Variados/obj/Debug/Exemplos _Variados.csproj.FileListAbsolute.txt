@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\Exemplos _Variados\bin\Debug\Exemplos _Variados.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\Exemplos _Variados\bin\Debug\Exemplos _Variados.exe
+C:\Users\User\Desktop\Exemplos _Variados\Exemplos _Variados\bin\Debug\Exemplos _Variados.pdb
+C:\Users\User\Desktop\Exemplos _Variados\Exemplos _Variados\obj\Debug\Exemplos _Variados.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\Exemplos _Variados\obj\Debug\Exemplos _Variados.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\Exemplos _Variados\obj\Debug\Exemplos _Variados.exe
+C:\Users\User\Desktop\Exemplos _Variados\Exemplos _Variados\obj\Debug\Exemplos _Variados.pdb

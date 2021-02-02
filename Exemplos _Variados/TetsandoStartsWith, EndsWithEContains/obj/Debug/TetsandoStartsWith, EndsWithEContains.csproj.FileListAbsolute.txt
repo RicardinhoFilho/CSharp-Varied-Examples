@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\TetsandoStartsWith, EndsWithEContains\obj\Debug\TetsandoStartsWith, EndsWithEContains.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\TetsandoStartsWith, EndsWithEContains\obj\Debug\TetsandoStartsWith, EndsWithEContains.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\TetsandoStartsWith, EndsWithEContains\bin\Debug\TetsandoStartsWith, EndsWithEContains.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\TetsandoStartsWith, EndsWithEContains\bin\Debug\TetsandoStartsWith, EndsWithEContains.exe
+C:\Users\User\Desktop\Exemplos _Variados\TetsandoStartsWith, EndsWithEContains\bin\Debug\TetsandoStartsWith, EndsWithEContains.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TetsandoStartsWith, EndsWithEContains\obj\Debug\TetsandoStartsWith, EndsWithEContains.exe
+C:\Users\User\Desktop\Exemplos _Variados\TetsandoStartsWith, EndsWithEContains\obj\Debug\TetsandoStartsWith, EndsWithEContains.pdb

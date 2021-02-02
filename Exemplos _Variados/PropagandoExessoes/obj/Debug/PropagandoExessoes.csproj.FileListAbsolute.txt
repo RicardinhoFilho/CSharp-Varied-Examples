@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exemplos _Variados\PropagandoExessoes\bin\Debug\PropagandoExessoes.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\PropagandoExessoes\bin\Debug\PropagandoExessoes.exe
+C:\Users\User\Desktop\Exemplos _Variados\PropagandoExessoes\bin\Debug\PropagandoExessoes.pdb
+C:\Users\User\Desktop\Exemplos _Variados\PropagandoExessoes\obj\Debug\PropagandoExessoes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\PropagandoExessoes\obj\Debug\PropagandoExessoes.exe
+C:\Users\User\Desktop\Exemplos _Variados\PropagandoExessoes\obj\Debug\PropagandoExessoes.pdb

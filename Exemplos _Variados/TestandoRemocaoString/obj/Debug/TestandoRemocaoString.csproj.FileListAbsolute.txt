@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\TestandoRemocaoString\bin\Debug\TestandoRemocaoString.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\TestandoRemocaoString\bin\Debug\TestandoRemocaoString.exe
+C:\Users\User\Desktop\Exemplos _Variados\TestandoRemocaoString\bin\Debug\TestandoRemocaoString.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TestandoRemocaoString\obj\Debug\TestandoRemocaoString.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\TestandoRemocaoString\obj\Debug\TestandoRemocaoString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\TestandoRemocaoString\obj\Debug\TestandoRemocaoString.exe
+C:\Users\User\Desktop\Exemplos _Variados\TestandoRemocaoString\obj\Debug\TestandoRemocaoString.pdb

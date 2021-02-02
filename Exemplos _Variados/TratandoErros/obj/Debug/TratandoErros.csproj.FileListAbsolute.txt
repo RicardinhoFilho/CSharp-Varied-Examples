@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exemplos _Variados\TratandoErros\bin\Debug\TratandoErros.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\TratandoErros\bin\Debug\TratandoErros.exe
+C:\Users\User\Desktop\Exemplos _Variados\TratandoErros\bin\Debug\TratandoErros.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TratandoErros\obj\Debug\TratandoErros.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\TratandoErros\obj\Debug\TratandoErros.exe
+C:\Users\User\Desktop\Exemplos _Variados\TratandoErros\obj\Debug\TratandoErros.pdb

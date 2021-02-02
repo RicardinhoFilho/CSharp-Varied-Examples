@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoSubstring\bin\Debug\UtilizandoSubstring.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoSubstring\bin\Debug\UtilizandoSubstring.exe
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoSubstring\bin\Debug\UtilizandoSubstring.pdb
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoSubstring\obj\Debug\UtilizandoSubstring.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoSubstring\obj\Debug\UtilizandoSubstring.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoSubstring\obj\Debug\UtilizandoSubstring.exe
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoSubstring\obj\Debug\UtilizandoSubstring.pdb

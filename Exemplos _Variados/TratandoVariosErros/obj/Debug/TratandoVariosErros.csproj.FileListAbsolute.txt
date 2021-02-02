@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\TratandoVariosErros\bin\Debug\TratandoVariosErros.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\TratandoVariosErros\bin\Debug\TratandoVariosErros.exe
+C:\Users\User\Desktop\Exemplos _Variados\TratandoVariosErros\bin\Debug\TratandoVariosErros.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TratandoVariosErros\obj\Debug\TratandoVariosErros.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\TratandoVariosErros\obj\Debug\TratandoVariosErros.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\TratandoVariosErros\obj\Debug\TratandoVariosErros.exe
+C:\Users\User\Desktop\Exemplos _Variados\TratandoVariosErros\obj\Debug\TratandoVariosErros.pdb
