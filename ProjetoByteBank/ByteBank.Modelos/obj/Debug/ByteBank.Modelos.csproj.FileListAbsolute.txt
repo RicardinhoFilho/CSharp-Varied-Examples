@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\csharppt5-aula1\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
-C:\Users\User\Desktop\csharppt5-aula1\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
-C:\Users\User\Desktop\csharppt5-aula1\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\csharppt5-aula1\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
-C:\Users\User\Desktop\csharppt5-aula1\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
-C:\Users\User\Desktop\csharppt5-aula1\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
