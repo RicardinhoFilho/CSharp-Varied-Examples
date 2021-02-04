@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\TesteExpressoesRegulares\bin\Debug\TesteExpressoesRegulares.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\TesteExpressoesRegulares\bin\Debug\TesteExpressoesRegulares.exe
+C:\Users\User\Desktop\Exemplos _Variados\TesteExpressoesRegulares\bin\Debug\TesteExpressoesRegulares.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TesteExpressoesRegulares\obj\Debug\TesteExpressoesRegulares.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\TesteExpressoesRegulares\obj\Debug\TesteExpressoesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\TesteExpressoesRegulares\obj\Debug\TesteExpressoesRegulares.exe
+C:\Users\User\Desktop\Exemplos _Variados\TesteExpressoesRegulares\obj\Debug\TesteExpressoesRegulares.pdb

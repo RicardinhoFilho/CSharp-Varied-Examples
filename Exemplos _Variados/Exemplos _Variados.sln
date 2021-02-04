@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestandoToLowerToUperERepla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetsandoStartsWith, EndsWithEContains", "TetsandoStartsWith, EndsWithEContains\TetsandoStartsWith, EndsWithEContains.csproj", "{AD0CC9FB-6BD0-4C05-890E-F2F133BAC07C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConhecendoExpressoesRegulares-Match-IsMatch", "ConhecendoExpressoesRegulares-Match-IsMatch\ConhecendoExpressoesRegulares-Match-IsMatch.csproj", "{95F9AC0D-FCED-48D1-9E0A-263FE6FA53E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteExpressoesRegulares", "TesteExpressoesRegulares\TesteExpressoesRegulares.csproj", "{3E94050D-8415-4478-810D-9A254C43B7EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{AD0CC9FB-6BD0-4C05-890E-F2F133BAC07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD0CC9FB-6BD0-4C05-890E-F2F133BAC07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD0CC9FB-6BD0-4C05-890E-F2F133BAC07C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F9AC0D-FCED-48D1-9E0A-263FE6FA53E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F9AC0D-FCED-48D1-9E0A-263FE6FA53E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F9AC0D-FCED-48D1-9E0A-263FE6FA53E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F9AC0D-FCED-48D1-9E0A-263FE6FA53E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E94050D-8415-4478-810D-9A254C43B7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E94050D-8415-4478-810D-9A254C43B7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E94050D-8415-4478-810D-9A254C43B7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E94050D-8415-4478-810D-9A254C43B7EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

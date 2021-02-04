@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\ConhecendoExpressoesRegulares-Match-IsMatch\bin\Debug\ConhecendoExpressoesRegulares-Match-IsMatch.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\ConhecendoExpressoesRegulares-Match-IsMatch\bin\Debug\ConhecendoExpressoesRegulares-Match-IsMatch.exe
+C:\Users\User\Desktop\Exemplos _Variados\ConhecendoExpressoesRegulares-Match-IsMatch\bin\Debug\ConhecendoExpressoesRegulares-Match-IsMatch.pdb
+C:\Users\User\Desktop\Exemplos _Variados\ConhecendoExpressoesRegulares-Match-IsMatch\obj\Debug\ConhecendoExpressoesRegulares-Match-IsMatch.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\ConhecendoExpressoesRegulares-Match-IsMatch\obj\Debug\ConhecendoExpressoesRegulares-Match-IsMatch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\ConhecendoExpressoesRegulares-Match-IsMatch\obj\Debug\ConhecendoExpressoesRegulares-Match-IsMatch.exe
+C:\Users\User\Desktop\Exemplos _Variados\ConhecendoExpressoesRegulares-Match-IsMatch\obj\Debug\ConhecendoExpressoesRegulares-Match-IsMatch.pdb
