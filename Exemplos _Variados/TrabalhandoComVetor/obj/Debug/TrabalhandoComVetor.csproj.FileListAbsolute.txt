@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComVetor\bin\Debug\TrabalhandoComVetor.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComVetor\bin\Debug\TrabalhandoComVetor.exe
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComVetor\bin\Debug\TrabalhandoComVetor.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComVetor\obj\Debug\TrabalhandoComVetor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComVetor\obj\Debug\TrabalhandoComVetor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComVetor\obj\Debug\TrabalhandoComVetor.exe
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComVetor\obj\Debug\TrabalhandoComVetor.pdb
