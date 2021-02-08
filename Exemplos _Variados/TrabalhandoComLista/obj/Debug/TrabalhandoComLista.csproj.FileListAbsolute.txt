@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComLista\obj\Debug\TrabalhandoComLista.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComLista\obj\Debug\TrabalhandoComLista.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComLista\bin\Debug\TrabalhandoComLista.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComLista\bin\Debug\TrabalhandoComLista.exe
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComLista\bin\Debug\TrabalhandoComLista.pdb
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComLista\obj\Debug\TrabalhandoComLista.exe
+C:\Users\User\Desktop\Exemplos _Variados\TrabalhandoComLista\obj\Debug\TrabalhandoComLista.pdb
