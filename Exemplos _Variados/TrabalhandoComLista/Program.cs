@@ -79,7 +79,23 @@ namespace TrabalhandoComLista
 
 
             Console.WriteLine("Agora que passamos um tamanho minimo suficiente para nosso vetor, nossa lista foi criada de forma muito mais rapida");
+            Console.ReadLine();
+            Contato lucas = new Contato("Lucas", 111111111);//criando contato lucas
+            Console.WriteLine($"Agora adicionameros o contato {lucas.Nome}: ");
 
+            Console.ReadLine();
+
+
+            gerarLista2.Adicionar(lucas);
+
+            Console.WriteLine($"Agora removeremos o contato {lucas.Nome}");
+            Console.WriteLine("Antes da Remoção: ");
+            gerarLista2.escreverLista();
+            gerarLista2.RemoverElemento(lucas);
+
+            Console.WriteLine("Depois da Remoção"); 
+            gerarLista2.escreverLista();
+            
             Console.Read();
 
         }
@@ -100,6 +116,21 @@ namespace TrabalhandoComLista
             }
             public string Nome { get; private set; }
             public int Numero { get; private set; }
+            /// <summary>
+            /// Método Equals reescrito para comparar dois elementos do tipo Contato e definir se são iguais ou não por meio dos campos Nome e Numero
+            /// </summary>
+            /// <param name="obj"> Paramêtro do tipo Contato</param>
+            /// <returns></returns>
+            public override bool Equals(object obj)
+            {
+                Contato outroContato = obj as Contato;//desta forma caso não seja do tipo contato o valor será null e não gerará uma excessão
+
+                if (outroContato == null)
+                {
+                    return false;
+                }
+                return outroContato.Nome == Nome && outroContato.Numero == Numero;
+            }
         }
         /// <summary>
         /// classe responsável por gerar nossa lista de contatos 
@@ -159,6 +190,35 @@ namespace TrabalhandoComLista
                 _contatos = novoArray;
             }
 
+           public void RemoverElemento(Contato contato)
+            {
+                int indiceDoElemento = -1;
+
+                for (int i = 0; i < proxPosicao; i++)
+                {
+                    if (contato.Equals(_contatos[i]))
+                    {
+                        indiceDoElemento = i;
+                        break;
+                    }
+                }
+
+                for (int i = indiceDoElemento; i < proxPosicao - 1; i++)
+                {
+                    _contatos[i] = _contatos[i + 1];
+                }
+
+                proxPosicao--;
+                _contatos[proxPosicao] = null;
+            }
+
+            public void escreverLista()
+            {
+                for (int i = 0; i < proxPosicao; i++)
+                {
+                    Console.WriteLine($"Contato [{i}]: {_contatos[i].Nome} -> {_contatos[i].Numero}");
+                }
+            }
 
         }
     }

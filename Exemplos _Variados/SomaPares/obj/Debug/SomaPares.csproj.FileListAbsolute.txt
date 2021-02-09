@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\SomaPares\bin\Debug\SomaPares.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\SomaPares\bin\Debug\SomaPares.exe
+C:\Users\User\Desktop\Exemplos _Variados\SomaPares\bin\Debug\SomaPares.pdb
+C:\Users\User\Desktop\Exemplos _Variados\SomaPares\obj\Debug\SomaPares.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\SomaPares\obj\Debug\SomaPares.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\SomaPares\obj\Debug\SomaPares.exe
+C:\Users\User\Desktop\Exemplos _Variados\SomaPares\obj\Debug\SomaPares.pdb
