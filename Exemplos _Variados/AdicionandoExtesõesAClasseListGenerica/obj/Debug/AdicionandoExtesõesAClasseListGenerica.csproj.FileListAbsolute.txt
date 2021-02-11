@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtesõesAClasseListGenerica\obj\Debug\AdicionandoExtesõesAClasseListGenerica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtesõesAClasseListGenerica\bin\Debug\AdicionandoExtesõesAClasseListGenerica.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtesõesAClasseListGenerica\bin\Debug\AdicionandoExtesõesAClasseListGenerica.exe
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtesõesAClasseListGenerica\bin\Debug\AdicionandoExtesõesAClasseListGenerica.pdb
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtesõesAClasseListGenerica\obj\Debug\AdicionandoExtesõesAClasseListGenerica.exe
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtesõesAClasseListGenerica\obj\Debug\AdicionandoExtesõesAClasseListGenerica.pdb

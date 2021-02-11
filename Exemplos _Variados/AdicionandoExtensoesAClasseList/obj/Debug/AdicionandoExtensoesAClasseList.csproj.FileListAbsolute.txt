@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtensoesAClasseList\bin\Debug\AdicionandoExtensoesAClasseList.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtensoesAClasseList\bin\Debug\AdicionandoExtensoesAClasseList.exe
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtensoesAClasseList\bin\Debug\AdicionandoExtensoesAClasseList.pdb
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtensoesAClasseList\obj\Debug\AdicionandoExtensoesAClasseList.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtensoesAClasseList\obj\Debug\AdicionandoExtensoesAClasseList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtensoesAClasseList\obj\Debug\AdicionandoExtensoesAClasseList.exe
+C:\Users\User\Desktop\Exemplos _Variados\AdicionandoExtensoesAClasseList\obj\Debug\AdicionandoExtensoesAClasseList.pdb
