@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\OrdenandoListComMetodoSort\bin\Debug\OrdenandoListComMetodoSort.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\OrdenandoListComMetodoSort\bin\Debug\OrdenandoListComMetodoSort.exe
+C:\Users\User\Desktop\Exemplos _Variados\OrdenandoListComMetodoSort\bin\Debug\OrdenandoListComMetodoSort.pdb
+C:\Users\User\Desktop\Exemplos _Variados\OrdenandoListComMetodoSort\obj\Debug\OrdenandoListComMetodoSort.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\OrdenandoListComMetodoSort\obj\Debug\OrdenandoListComMetodoSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\OrdenandoListComMetodoSort\obj\Debug\OrdenandoListComMetodoSort.exe
+C:\Users\User\Desktop\Exemplos _Variados\OrdenandoListComMetodoSort\obj\Debug\OrdenandoListComMetodoSort.pdb
