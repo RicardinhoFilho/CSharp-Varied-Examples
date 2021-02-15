@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoOrderByComExpressoesLambda\bin\Debug\UtilizandoOrderByComExpressoesLambda.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoOrderByComExpressoesLambda\bin\Debug\UtilizandoOrderByComExpressoesLambda.exe
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoOrderByComExpressoesLambda\bin\Debug\UtilizandoOrderByComExpressoesLambda.pdb
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoOrderByComExpressoesLambda\obj\Debug\UtilizandoOrderByComExpressoesLambda.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoOrderByComExpressoesLambda\obj\Debug\UtilizandoOrderByComExpressoesLambda.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoOrderByComExpressoesLambda\obj\Debug\UtilizandoOrderByComExpressoesLambda.exe
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoOrderByComExpressoesLambda\obj\Debug\UtilizandoOrderByComExpressoesLambda.pdb

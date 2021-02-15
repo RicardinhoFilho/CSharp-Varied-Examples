@@ -4,3 +4,4 @@ C:\Users\User\Desktop\Exemplos _Variados\OrdenandoClasseImplementandoIComparer\b
 C:\Users\User\Desktop\Exemplos _Variados\OrdenandoClasseImplementandoIComparer\obj\Debug\OrdenandoUmaListDeClasseUtilizandoIntarfaceIComparer.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Exemplos _Variados\OrdenandoClasseImplementandoIComparer\obj\Debug\OrdenandoClasseImplementandoIComparer.exe
 C:\Users\User\Desktop\Exemplos _Variados\OrdenandoClasseImplementandoIComparer\obj\Debug\OrdenandoClasseImplementandoIComparer.pdb
+C:\Users\User\Desktop\Exemplos _Variados\OrdenandoClasseImplementandoIComparer\obj\Debug\OrdenandoUmaListDeClasseUtilizandoIntarfaceIComparer.csprojAssemblyReference.cache

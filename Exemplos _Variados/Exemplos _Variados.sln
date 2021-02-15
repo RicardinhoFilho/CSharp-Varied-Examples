@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenandoUmaListDeClasseUti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenandoUmaListDeClasseUtilizandoIntarfaceIComparer", "OrdenandoClasseImplementandoIComparer\OrdenandoUmaListDeClasseUtilizandoIntarfaceIComparer.csproj", "{BE324239-1BDF-4519-B75C-B5435E070018}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoOrderByComExpressoesLambda", "UtilizandoOrderByComExpressoesLambda\UtilizandoOrderByComExpressoesLambda.csproj", "{0321CBEA-1920-4CBE-BF48-5075369EA3DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoLinqEOperadorWhere", "UtilizandoLinqEOperadorWhere\UtilizandoLinqEOperadorWhere.csproj", "{0A2C3108-E0E3-454D-A70B-A391C09F972C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{BE324239-1BDF-4519-B75C-B5435E070018}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE324239-1BDF-4519-B75C-B5435E070018}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE324239-1BDF-4519-B75C-B5435E070018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0321CBEA-1920-4CBE-BF48-5075369EA3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0321CBEA-1920-4CBE-BF48-5075369EA3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0321CBEA-1920-4CBE-BF48-5075369EA3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0321CBEA-1920-4CBE-BF48-5075369EA3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2C3108-E0E3-454D-A70B-A391C09F972C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2C3108-E0E3-454D-A70B-A391C09F972C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2C3108-E0E3-454D-A70B-A391C09F972C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2C3108-E0E3-454D-A70B-A391C09F972C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoLinqEOperadorWhere\bin\Debug\UtilizandoLinqEOperadorWhere.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoLinqEOperadorWhere\bin\Debug\UtilizandoLinqEOperadorWhere.exe
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoLinqEOperadorWhere\bin\Debug\UtilizandoLinqEOperadorWhere.pdb
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoLinqEOperadorWhere\obj\Debug\UtilizandoLinqEOperadorWhere.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoLinqEOperadorWhere\obj\Debug\UtilizandoLinqEOperadorWhere.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoLinqEOperadorWhere\obj\Debug\UtilizandoLinqEOperadorWhere.exe
+C:\Users\User\Desktop\Exemplos _Variados\UtilizandoLinqEOperadorWhere\obj\Debug\UtilizandoLinqEOperadorWhere.pdb
