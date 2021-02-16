@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Exemplos _Variados\LendoUmArquivoTexto\bin\Debug\LendoUmArquivoTexto.exe.config
+C:\Users\User\Desktop\Exemplos _Variados\LendoUmArquivoTexto\bin\Debug\LendoUmArquivoTexto.exe
+C:\Users\User\Desktop\Exemplos _Variados\LendoUmArquivoTexto\bin\Debug\LendoUmArquivoTexto.pdb
+C:\Users\User\Desktop\Exemplos _Variados\LendoUmArquivoTexto\obj\Debug\LendoUmArquivoTexto.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Exemplos _Variados\LendoUmArquivoTexto\obj\Debug\LendoUmArquivoTexto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemplos _Variados\LendoUmArquivoTexto\obj\Debug\LendoUmArquivoTexto.exe
+C:\Users\User\Desktop\Exemplos _Variados\LendoUmArquivoTexto\obj\Debug\LendoUmArquivoTexto.pdb

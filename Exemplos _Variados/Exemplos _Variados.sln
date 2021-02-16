@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoOrderByComExpress
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoLinqEOperadorWhere", "UtilizandoLinqEOperadorWhere\UtilizandoLinqEOperadorWhere.csproj", "{0A2C3108-E0E3-454D-A70B-A391C09F972C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendoUmArquivoTexto", "LendoUmArquivoTexto\LendoUmArquivoTexto.csproj", "{DF10DE33-9FA9-42B2-8BD7-00F7F223FC5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{0A2C3108-E0E3-454D-A70B-A391C09F972C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2C3108-E0E3-454D-A70B-A391C09F972C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2C3108-E0E3-454D-A70B-A391C09F972C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF10DE33-9FA9-42B2-8BD7-00F7F223FC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF10DE33-9FA9-42B2-8BD7-00F7F223FC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF10DE33-9FA9-42B2-8BD7-00F7F223FC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF10DE33-9FA9-42B2-8BD7-00F7F223FC5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
